@@ -5,4 +5,11 @@
                              | __/ _ \| '_ \ / _ \______| '_ ` _ \ / _` | '_ \ 
                              | || (_) | | | |  __/      | | | | | | (_| | | | |
                               \__\___/|_| |_|\___|      |_| |_| |_|\__,_|_| |_|
+                                    
+                                Acolyte of Tux,
+                                      Ascending to the second ring of nvim,
+                                                      decimated bugs in his wake.
+
+                                            Merrimack College 24'
+                                        
 ```
