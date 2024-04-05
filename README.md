@@ -7,7 +7,7 @@
                               \__\___/|_| |_|\___|      |_| |_| |_|\__,_|_| |_|
                                     
                                 Acolyte of Tux,
-                                      Ascending to the second ring of nvim,
+                                      Ascending to the second ring of vim,
                                                       decimated bugs in his wake.
 
                                             Merrimack College 24'
